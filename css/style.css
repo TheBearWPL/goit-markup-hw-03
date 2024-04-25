@@ -81,11 +81,6 @@ img {
   color: #2e2f42;
 }
 
-.main-menu-list: :first-child {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
-
 .main-menu-list:focus {
   color: #404bbf;
 }
