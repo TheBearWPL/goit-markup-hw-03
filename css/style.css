@@ -48,7 +48,7 @@ img {
   padding-right: 15px;
 }
 
-.nav-adress-settings {
+.nav-adress {
   display: flex;
   align-items: center;
 }
@@ -68,14 +68,22 @@ img {
   color: #2e2f42;
 }
 
+.unstructured-list {
+  display: flex;
+  gap: 40px;
+}
+
 .main-menu-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  display: flex;
-  gap: 40px;
+}
+
+.main-menu-list a {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .main-menu-list:focus {
