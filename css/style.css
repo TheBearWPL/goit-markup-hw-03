@@ -36,6 +36,18 @@ img {
 
 /* [Header] rules */
 
+.global-header-settings {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
+  display: flex;
+  width: 1158px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
