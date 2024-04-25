@@ -1,0 +1,245 @@
+/* Fonts */
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+/* General Website Style rules */
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+/* [Header] rules */
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.studio-logo-text {
+  color: #2e2f42;
+}
+
+.main-menu-list {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-menu-list:focus {
+  color: #404bbf;
+}
+.main-menu-list:hover {
+  color: #404bbf;
+}
+
+.main-menu-list:active {
+  color: #404bbf;
+}
+
+.address {
+  font-style: normal;
+}
+
+.address-list {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.address-list:focus {
+  color: #404bbf;
+}
+.address-list:hover {
+  color: #404bbf;
+}
+.address-list:active {
+  color: #404bbf;
+}
+
+/* [main] -> [section] (first section contains) rules */
+
+.section-one-settings {
+  background-color: #2e2f42;
+}
+
+.h-one-settings {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.button-settings {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button-settings:focus {
+  background-color: #404bbf;
+}
+.button-settings:hover {
+  background-color: #404bbf;
+}
+.button-settings:active {
+  background-color: #404bbf;
+}
+
+/* [main] -> [section] (second section contains) rules */
+
+.h-two-section-two-settings {
+  font-weight: 500;
+}
+
+.h-three-section-two-settings {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.p-section-two-settings {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* [main] -> [section] (third section contains) rules */
+
+.section-three-settings {
+  background-color: #f4f4fd;
+}
+
+.h-two-section-three-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.h-three-section-three-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.list-section-three-settings {
+  background-color: #ffffff;
+}
+
+.p-section-three-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+/* [main] -> [section] (fourth section contains) rules */
+
+.section-four-settings {
+  background-color: #ffffff;
+}
+
+.h-two-section-four-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.list-section-four-settings {
+  background-color: #ffffff;
+}
+
+.h-three-section-four-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.p-section-four-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+/* [footer] rules */
+
+.footer-settings {
+  background-color: #2e2f42;
+}
+
+/*.logo is under [Header] section */
+
+.p-footer-settings {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.studio-footer-logo-text {
+  color: #f4f4fd;
+}
