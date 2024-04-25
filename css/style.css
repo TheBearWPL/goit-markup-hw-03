@@ -30,6 +30,10 @@ body {
   background-color: #ffffff;
 }
 
+img {
+  display: block;
+}
+
 /* [Header] rules */
 
 .logo {
