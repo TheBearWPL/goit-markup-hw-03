@@ -68,7 +68,7 @@ img {
   color: #2e2f42;
 }
 
-.unstructured-list-header {
+.unstructured-list-nav-header {
   display: flex;
   gap: 40px;
 }
@@ -98,13 +98,16 @@ img {
   font-style: normal;
 }
 
+.unstructured-list-address-header {
+  display: flex;
+  gap: 40px;
+}
+
 .address-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  display: flex;
-  gap: 40px;
 }
 .address-list:focus {
   color: #404bbf;
