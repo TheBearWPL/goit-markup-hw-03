@@ -34,7 +34,7 @@ img {
   display: block;
 }
 
-/* [Header] rules
+/* [Header] rules */
 
 .global-header-settings {
   border-bottom: 1px solid #e7e9fc;
@@ -113,8 +113,6 @@ img {
 .address-list:active {
   color: #404bbf;
 }
-
-*/
 
 /* [main] -> [section] (first section contains) rules */
 
