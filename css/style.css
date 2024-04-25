@@ -68,7 +68,7 @@ img {
   color: #2e2f42;
 }
 
-.unstructured-list {
+.unstructured-list-header {
   display: flex;
   gap: 40px;
 }
