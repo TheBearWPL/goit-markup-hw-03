@@ -169,9 +169,7 @@ img {
   padding-bottom: 120px;
 }
 
-.h-two-section-two-settings {
-  font-weight: 500;
-  display: none;
+.visually-hidden {
 }
 
 .h-three-section-two-settings {
