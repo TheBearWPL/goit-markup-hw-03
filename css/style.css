@@ -190,6 +190,8 @@ img {
 
 .unstructured-list-item-one-section-two-settings {
   width: calc((100% - 72px) / 4);
+  display: flex;
+  gap: 24px;
 }
 
 .h-three-section-two-settings {
