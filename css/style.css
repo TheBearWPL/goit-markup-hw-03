@@ -164,6 +164,11 @@ img {
 
 /* [main] -> [section] (second section contains) rules */
 
+.section-two-settings {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .h-two-section-two-settings {
   font-weight: 500;
   display: none;
