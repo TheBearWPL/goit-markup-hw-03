@@ -188,6 +188,10 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
+.unstructured-list-item-one-section-two-settings {
+  width: calc((100% - 72px) / 4);
+}
+
 .h-three-section-two-settings {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
