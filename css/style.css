@@ -182,7 +182,7 @@ img {
   overflow: hidden;
 }
 
-.unstructured-list-section-two-settings {
+.unstructured-list-item-section-two-settings {
   display: flex;
   gap: 24px;
   width: calc((100% - 72px) / 4);
