@@ -195,7 +195,7 @@ img {
 }
 */
 
-.unstructured-list-item-section-two-settings > li {
+.unstructured-list-item-section-two-settings > li:first-child {
   display: flex;
   gap: 24px;
   width: calc((100% - 72px) / 4);
