@@ -198,21 +198,12 @@ ol {
   gap: 24px;
 }
 
-.unstructured-list-item-section-two-settings:not {
+.unstructured-list-item-section-two-settings {
   display: flex;
   gap: 24px;
   width: calc((100% - 72px) / 4);
 }
 
-/*.unstructured-list-item-section-two-settings {
-  display: flex;
-  gap: 24px;
-}
-
-.unstructured-list-item-section-two-settings:first-child {
-  width: calc((100% - 72px) / 4);
-}
-*/
 .h-three-section-two-settings {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
