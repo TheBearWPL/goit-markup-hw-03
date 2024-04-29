@@ -195,9 +195,8 @@ img {
 }
 */
 
-.unstructured-list-item-section-two-settings:first-child) {
+.unstructured-list-item-section-two-settings > li {
   display: flex;
-  position: absolute;
   gap: 24px;
   width: calc((100% - 72px) / 4);
 }
