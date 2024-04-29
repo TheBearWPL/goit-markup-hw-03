@@ -198,15 +198,13 @@ ol {
   gap: 24px;
 }
 
-/*
-.unstructured-list-item-section-two-settings {
+.unstructured-list-item-section-two-settings:not {
   display: flex;
   gap: 24px;
   width: calc((100% - 72px) / 4);
 }
-*/
 
-.unstructured-list-item-section-two-settings {
+/*.unstructured-list-item-section-two-settings {
   display: flex;
   gap: 24px;
 }
@@ -223,7 +221,7 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-}
+}*/
 
 .p-section-two-settings {
   font-size: 16px;
