@@ -182,16 +182,14 @@ img {
   overflow: hidden;
 }
 
-.unstructured-list-item-section-two-settings {
+.unstructured-list-section-two-settings {
   display: flex;
   gap: 24px;
   width: calc((100% - 72px) / 4);
 }
 
-.unstructured-list-item-one-section-two-settings {
+.unstructured-list-item-section-two-settings {
   width: calc((100% - 72px) / 4);
-  display: flex;
-  gap: 24px;
 }
 
 .h-three-section-two-settings {
