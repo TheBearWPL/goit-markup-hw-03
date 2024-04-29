@@ -199,8 +199,6 @@ ol {
 }
 
 .unstructured-list-item-section-two-settings {
-  display: flex;
-  gap: 24px;
   width: calc((100% - 72px) / 4);
 }
 
