@@ -185,6 +185,11 @@ img {
 .unstructured-list-section-two-settings {
   display: flex;
   gap: 24px;
+}
+
+.unstructured-list-section-two-settings:first-child {
+  display: flex;
+  gap: 24px;
   width: calc((100% - 72px) / 4);
 }
 
