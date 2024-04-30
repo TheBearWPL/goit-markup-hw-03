@@ -355,9 +355,22 @@ section {
 
 .footer-settings {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
-/*.logo is under [Header] section */
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-right: 76px;
+  color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
+}
 
 .p-footer-settings {
   font-family: "Roboto", sans-serif;
@@ -366,6 +379,7 @@ section {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
 
 .studio-footer-logo-text {
