@@ -227,6 +227,11 @@ ol {
   padding-bottom: 120px;
 }
 
+.container-section-three {
+  padding: 32px 16px 32px;
+  display: list-item;
+}
+
 .h-two-section-three-settings {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
@@ -240,13 +245,6 @@ ol {
 
 .h-two-section-three-settings {
   margin-bottom: 72px;
-}
-
-.container {
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-left: 16px;
-  padding-right: 16px;
 }
 
 .h-three-section-three-settings {
