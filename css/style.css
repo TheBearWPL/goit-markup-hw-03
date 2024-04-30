@@ -233,6 +233,7 @@ ol {
   padding-left: 16px;
   padding-right: 16px;
   display: list-item;
+  overflow: hidden;
 }
 
 .h-two-section-three-settings {
