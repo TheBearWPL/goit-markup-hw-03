@@ -53,6 +53,11 @@ ol {
   list-style-type: none;
 }
 
+section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 /* [Header] rules */
 
 .global-header-settings {
