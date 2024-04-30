@@ -242,6 +242,13 @@ ol {
   margin-bottom: 72px;
 }
 
+.container-section-three {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
 .h-three-section-three-settings {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -250,9 +257,14 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
-.unstructured-list-section-two-settings {
+.p-section-three-settings {
+  text-align: center;
+}
+
+.unstructured-list-section-three-settings {
   display: flex;
   gap: 24px;
 }
@@ -262,7 +274,7 @@ ol {
   width: calc((100% - 72px) / 4);
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
-  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
   border-bottom-right-radius: 4px;
 }
 
