@@ -166,7 +166,6 @@ section {
   height: 56px;
   border: none;
   border-radius: 4px;
-  cursor: pointer;
 }
 .button-settings:focus {
   background-color: #404bbf;
@@ -250,9 +249,6 @@ section {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-}
-
-.h-two-section-three-settings {
   margin-bottom: 72px;
 }
 
@@ -265,10 +261,6 @@ section {
   text-align: center;
   color: #2e2f42;
   margin-bottom: 8px;
-}
-
-.p-section-three-settings {
-  text-align: center;
 }
 
 .unstructured-list-section-three-settings {
