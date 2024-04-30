@@ -227,15 +227,6 @@ ol {
   padding-bottom: 120px;
 }
 
-.container-section-three {
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-left: 16px;
-  padding-right: 16px;
-  display: list-item;
-  overflow: hidden;
-}
-
 .h-two-section-three-settings {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
@@ -290,6 +281,14 @@ ol {
   color: #434455;
 }
 
+.container-section-three {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+  display: list-item;
+  overflow: hidden;
+}
 /* [main] -> [section] (fourth section contains) rules */
 
 .section-four-settings {
