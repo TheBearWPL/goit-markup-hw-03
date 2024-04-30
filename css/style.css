@@ -293,6 +293,17 @@ section {
   background-color: #ffffff;
 }
 
+.container-section-four {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-width: 0px, 1px, 1px, 1px;
+  border-style: solid;
+  border-color: #e7e9fc;
+  border-top: none;
+}
+
 .h-two-section-four-settings {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
@@ -302,10 +313,19 @@ section {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.unstructured-list-section-four-settings {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 
 .list-section-four-settings {
   background-color: #ffffff;
+  width: calc((100% - 48px) / 3);
 }
 
 .h-three-section-four-settings {
