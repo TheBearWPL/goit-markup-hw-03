@@ -373,6 +373,7 @@ section {
   margin-right: 76px;
   color: #4d5ae5;
   display: inline-block;
+  flex-wrap: nowrap;
   margin-bottom: 16px;
 }
 
