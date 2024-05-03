@@ -163,6 +163,8 @@ section {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
+  justify-content: center;
+  margin: auto;
 }
 
 .button-settings {
