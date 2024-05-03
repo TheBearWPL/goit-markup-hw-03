@@ -148,6 +148,13 @@ section {
   padding-bottom: 188px;
 }
 
+.h-one-container-settings {
+  width: 1158px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .h-one-settings {
   font-size: 56px;
   line-height: 1.07;
