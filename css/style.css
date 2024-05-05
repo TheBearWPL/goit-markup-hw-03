@@ -70,9 +70,11 @@ section {
 
 .container-header {
   display: flex;
+  padding-left: 15px;
+  padding-right: 15px
   padding-top: 24px;
   padding-bottom: 24px;
-  width: 1440px;
+  width: 1158px;
   height: 72px;
 }
 
@@ -92,6 +94,7 @@ section {
   padding-right: 76px;
   color: #4d5ae5;
   text-decoration: none;
+  margin-right: 76px;
 }
 
 .studio-logo-text {
@@ -110,6 +113,8 @@ section {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .main-menu-list:focus {
