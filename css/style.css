@@ -133,7 +133,7 @@ section {
   letter-spacing: 0.02em;
   text-align: left;
   max-height: 24px;
-  padding: 24px 156px;
+  padding: 24px 156px 0px;
 }
 
 .unstructured-list-address-header {
@@ -148,6 +148,8 @@ section {
   color: #434455;
   text-decoration: none;
   gap: 40px;
+  width: 151px;
+  height: 24px;
 }
 .address-list:focus {
   color: #404bbf;
