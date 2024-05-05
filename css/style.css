@@ -41,11 +41,9 @@ img {
 }
 
 .container {
-  display: flex;
   width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
   margin: 0 auto;
+  padding: 0 15px;
 }
 
 .container img {
@@ -163,8 +161,7 @@ section {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
-  justify-content: center;
-  margin: auto;
+  display: flex;
 }
 
 .button-settings {
@@ -248,6 +245,7 @@ section {
 
 .container-section-three {
   padding: 32px 16px;
+  display: flex;
 }
 
 .h-two-section-three-settings {
