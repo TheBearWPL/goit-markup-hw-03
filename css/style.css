@@ -133,7 +133,7 @@ section {
   letter-spacing: 0.02em;
   text-align: left;
   max-height: 24px;
-  padding-left: 525px;
+  padding: 24px 156px;
 }
 
 .unstructured-list-address-header {
@@ -184,7 +184,7 @@ section {
   width: 496px;
   margin-bottom: 48px;
   margin-left: 472px;
-  margin-right: atuo;
+  margin-right: auto;
 }
 
 .button-settings {
