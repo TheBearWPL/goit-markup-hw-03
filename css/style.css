@@ -88,7 +88,7 @@ section {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  padding-right: 76px;
+  width: calc(100% - 76px);
   color: #4d5ae5;
   text-decoration: none;
   margin-right: 76px;
@@ -184,9 +184,7 @@ section {
   max-width: 496px;
   display: flex;
   width: 496px;
-  margin-bottom: 48px;
-  margin-left: 472px;
-  margin-right: auto;
+  margin: auto auto 48px auto;
 }
 
 .button-settings {
@@ -203,7 +201,7 @@ section {
   height: 56px;
   border: none;
   border-radius: 4px;
-  margin-left: 636px;
+  margin: auto;
 }
 
 .button-settings:focus {
