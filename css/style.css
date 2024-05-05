@@ -70,10 +70,7 @@ section {
 
 .container-header {
   display: flex;
-  padding-left: 15px;
-  padding-right: 15px
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 15px;
   width: 1158px;
   height: 72px;
 }
@@ -166,9 +163,7 @@ section {
 
 .section-one-settings {
   background-color: #2e2f42;
-  padding-top: 188px;
-  padding-bottom: 188px;
-  padding-left: 720px;
+  padding: 188px 0px 188px 720px;
 }
 
 /*.h-one-container-settings {
