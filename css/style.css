@@ -64,7 +64,7 @@ section {
 
 /* [Header] rules */
 
-.global-header-settings {
+.header {
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -98,12 +98,12 @@ section {
   color: #2e2f42;
 }
 
-.unstructured-list-nav-header {
+.ul-nav-header {
   display: flex;
   gap: 40px;
 }
 
-.main-menu-list {
+.main-menu {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -114,14 +114,14 @@ section {
   padding-bottom: 24px;
 }
 
-.main-menu-list:focus {
+.main-menu:focus {
   color: #404bbf;
 }
-.main-menu-list:hover {
+.main-menu:hover {
   color: #404bbf;
 }
 
-.main-menu-list:active {
+.main-menu:active {
   color: #404bbf;
 }
 
@@ -138,12 +138,12 @@ section {
   padding-left: 332px;
 }
 
-.unstructured-list-address-header {
+.ul-address {
   display: flex;
   gap: 40px;
 }
 
-.address-list {
+.li-address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -153,19 +153,19 @@ section {
   width: 151px;
   height: 24px;
 }
-.address-list:focus {
+.li-address:focus {
   color: #404bbf;
 }
-.address-list:hover {
+.li-address:hover {
   color: #404bbf;
 }
-.address-list:active {
+.li-address:active {
   color: #404bbf;
 }
 
 /* [main] -> [section] (first section contains) rules */
 
-.section-one-settings {
+.section-one {
   background-color: #2e2f42;
   padding: 188px 0px 188px;
 }
@@ -177,7 +177,7 @@ section {
   padding-right: 15px;
 }*/
 
-.h-one-settings {
+.h-one {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -189,7 +189,7 @@ section {
   margin: auto auto 48px auto;
 }
 
-.button-settings {
+.button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -206,24 +206,24 @@ section {
   margin: auto;
 }
 
-.button-settings:focus {
+.button:focus {
   background-color: #404bbf;
 }
-.button-settings:hover {
+.button:hover {
   background-color: #404bbf;
 }
-.button-settings:active {
+.button:active {
   background-color: #404bbf;
 }
 
 /* [main] -> [section] (second section contains) rules */
 
-.section-two-settings {
+.section-two {
   padding-top: 120px;
   padding-bottom: 120px;
 }
 
-.h-two-section-two-settings {
+.h-two-section-two {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -236,16 +236,16 @@ section {
   overflow: hidden;
 }
 
-.unstructured-list-section-two-settings {
+.ul-section-two {
   display: flex;
   gap: 24px;
 }
 
-.unstructured-list-item-section-two-settings {
+.li-item-section-two {
   width: calc((100% - 72px) / 4);
 }
 
-.h-three-section-two-settings {
+.h-three-section-two {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -255,7 +255,7 @@ section {
   margin-bottom: 8px;
 }
 
-.p-section-two-settings {
+.p-section-two {
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -266,7 +266,7 @@ section {
 
 /* [main] -> [section] (third section contains) rules */
 
-.section-three-settings {
+.section-three {
   background-color: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
@@ -276,7 +276,7 @@ section {
   padding: 32px 16px;
 }
 
-.h-two-section-three-settings {
+.h-two-section-three {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
@@ -288,7 +288,7 @@ section {
   margin-bottom: 72px;
 }
 
-.h-three-section-three-settings {
+.h-three-section-three {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
@@ -299,12 +299,12 @@ section {
   margin-bottom: 8px;
 }
 
-.unstructured-list-section-three-settings {
+.ul-section-three {
   display: flex;
   gap: 24px;
 }
 
-.list-section-three-settings {
+.li-section-three {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-top-left-radius: 0px;
@@ -313,7 +313,7 @@ section {
   border-bottom-right-radius: 4px;
 }
 
-.p-section-three-settings {
+.p-section-three {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -325,7 +325,7 @@ section {
 
 /* [main] -> [section] (fourth section contains) rules */
 
-.section-four-settings {
+.section-four {
   background-color: #ffffff;
 }
 
@@ -338,7 +338,7 @@ section {
   border-top: none;
 }
 
-.h-two-section-four-settings {
+.h-two-section-four {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
@@ -350,19 +350,19 @@ section {
   margin-bottom: 72px;
 }
 
-.unstructured-list-section-four-settings {
+.ul-section-four {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
 }
 
-.list-section-four-settings {
+.li-section-four {
   background-color: #ffffff;
   width: calc((100% - 48px) / 3);
 }
 
-.h-three-section-four-settings {
+.h-three-section-four {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
@@ -373,7 +373,7 @@ section {
   margin-bottom: 8px;
 }
 
-.p-section-four-settings {
+.p-section-four {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -385,7 +385,7 @@ section {
 
 /* [footer] rules */
 
-.footer-settings {
+.footer {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -404,7 +404,7 @@ section {
   margin-bottom: 16px;
 }
 
-.p-footer-settings {
+.p-footer {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
